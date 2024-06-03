@@ -36,7 +36,7 @@ Java Swing library for GUI components.
 
 Contributors:
 
-Gabriel Eduardo Farinha
+Igor Januzzi
 
 License:
 
